@@ -24,3 +24,4 @@ module.exports = {
 ```
 
 ### Also, in a dev environment, you need to create a .env file, and you can do it following the example file called .env.example
+### Teste
